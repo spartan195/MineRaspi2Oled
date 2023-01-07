@@ -1,5 +1,6 @@
 # Raspberry Pi 2 Minecraft Server with Waveshare 1.3' Oled display
 Setup Minecraft Server on a Raspberry pi 2 with a system monitor + current players info on a Waveshare Oled 1.3' display
+![IMG-4913 (1)](https://user-images.githubusercontent.com/11519643/211148552-48e2f27b-fb87-4670-997f-537b464eb311.jpg)
 
 ## Acknowledgements
 
