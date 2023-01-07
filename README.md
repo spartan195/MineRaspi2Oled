@@ -8,7 +8,7 @@ I've been trying so many configurations without luck on 1.19 version until I fou
 
 With this script you can run your server with jre without headackes. I put my config server files here to help you speed up the optimization process.
 
-Keep in mind this server only runs on Minecraft 1.17.1 , I did not tried on 1.17.2 or 1.18 vut I know for sure 1.19 does not work at all
+Keep in mind this server only runs on Minecraft 1.17.1 , I did not tried on 1.17.2 or 1.18 but I know for sure 1.19 does not work at all
 ## Minecraft Server Installation
 
 Clone this repo & cd into it
