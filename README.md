@@ -4,7 +4,7 @@ Setup Minecraft Server on a Raspberry pi 2 with a system monitor + current playe
 
 ## Acknowledgements
 
-I've been trying so many configurations without lick with 1.19 version until I found this tutorial from [James A. Chambers](https://jamesachambers.com/raspberry-pi-minecraft-server-script-with-startup-service/)
+I've been trying so many configurations without luck on 1.19 version until I found this tutorial from [James A. Chambers](https://jamesachambers.com/raspberry-pi-minecraft-server-script-with-startup-service/) where I was able to retry installations faster until I though about changing versions to 1.17.1
 
 With this script you can run your server with jre without headackes. I put my config server files here to help you speed up the optimization process.
 
